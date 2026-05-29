@@ -8,7 +8,10 @@ load_dotenv()
 CLIENT_ID = os.getenv("CLIENT_ID")
 CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 
-TRANSITO_URL = "https://api-transporte.buenosaires.gob.ar/transito"
+TRANSITO_URL = "https://apitransporte.buenosaires.gob.ar/datos/movilidad/transito"
+
+def obtener_mock_transito():
+    return pd.read_csv("data/raw/transito_mock.csv")
 
 def obtener_datos_transito():
     params = {
@@ -18,21 +21,25 @@ def obtener_datos_transito():
 
     try:
         response = requests.get(TRANSITO_URL, params=params)
-        print(response.status_code)
         
+        print("Status:", response.status_code)
+    
         if response.status_code == 200:
-            print("REPRESENTACIÓN DEL TEXTO RECIBIDO:")
-            print(response.text[:500])
-            
             data = response.json()
+            print(data)
+
+            if len(data) == 0:
+                print("API vacía --> usando mock data")
+                return obtener_mock_transito()
+        
             return pd.DataFrame(data)
 
         else:
             print(f"Error obteniendo datos: {response.text}")
-            return pd.DataFrame()
+            return obtener_mock_transito()
     
     except Exception as e:
         print("Error: ", e)
-        return pd.DataFrame()
+        return obtener_mock_transito()
     
     

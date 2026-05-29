@@ -1,0 +1,502 @@
+id_evento,tipo_evento,severidad,avenida,barrio,descripcion,timestamp,estado,latitud,longitud
+
+EV-10000,Corte,Alta,9 de Julio,Palermo,Corte reportado en zona de Palermo,2026-05-22 12:44:50.101656,Activo,-34.590807294502426,-58.42813803299117
+EV-10001,Choque,Alta,Paseo Colon,Belgrano,Choque reportado en zona de Belgrano,2026-05-22 12:49:50.101656,Activo,-34.56571810052999,-58.45804754466198
+EV-10002,Semaforo fuera de servicio,Baja,Cabildo,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-22 12:54:50.101656,Activo,-34.56157721746222,-58.45236785467597
+EV-10003,Accidente multiple,Alta,Santa Fe,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-22 12:59:50.101656,Resuelto,-34.5608627901575,-58.45907170860535
+EV-10004,Choque,Alta,Corrientes,Caballito,Choque reportado en zona de Caballito,2026-05-22 13:04:50.101656,Resuelto,-34.61465586173727,-58.445752469495105
+EV-10005,Corte,Media,Libertador,Caballito,Corte reportado en zona de Caballito,2026-05-22 13:09:50.101656,Activo,-34.62199964677106,-58.44683493707374
+EV-10006,Corte,Baja,Belgrano,Microcentro,Corte reportado en zona de Microcentro,2026-05-22 13:14:50.101656,Activo,-34.6046951183644,-58.38334312215383
+EV-10007,Corte,Alta,Libertador,Belgrano,Corte reportado en zona de Belgrano,2026-05-22 13:19:50.101656,Activo,-34.55815118284164,-58.454300430188574
+EV-10008,Semaforo fuera de servicio,Media,Belgrano,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-22 13:24:50.101656,Resuelto,-34.59350385905399,-58.375677245636325
+EV-10009,Choque,Baja,Cabildo,Recoleta,Choque reportado en zona de Recoleta,2026-05-22 13:29:50.101656,Activo,-34.58588945133451,-58.4002191594733
+EV-10010,Semaforo fuera de servicio,Media,Libertador,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-22 13:34:50.101656,Resuelto,-34.59304777449786,-58.37378462818287
+EV-10011,Corte,Media,Corrientes,Retiro,Corte reportado en zona de Retiro,2026-05-22 13:39:50.101656,Activo,-34.59610814442442,-58.37868150065537
+EV-10012,Accidente multiple,Alta,Corrientes,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-22 13:44:50.101656,Activo,-34.604747221068465,-58.3771454773402
+EV-10013,Manifestacion,Alta,Rivadavia,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-22 13:49:50.101656,Activo,-34.55818522590301,-58.45650707499686
+EV-10014,Choque,Alta,Cabildo,Caballito,Choque reportado en zona de Caballito,2026-05-22 13:54:50.101656,Activo,-34.61389231771354,-58.44719337947217
+EV-10015,Manifestacion,Media,Cabildo,Palermo,Manifestacion reportado en zona de Palermo,2026-05-22 13:59:50.101656,Resuelto,-34.59115805677268,-58.43091734718636
+EV-10016,Choque,Alta,9 de Julio,Retiro,Choque reportado en zona de Retiro,2026-05-22 14:04:50.101656,Resuelto,-34.5947070552357,-58.37024128288907
+EV-10017,Corte,Media,Rivadavia,Microcentro,Corte reportado en zona de Microcentro,2026-05-22 14:09:50.101656,Activo,-34.59934218424843,-58.380610328356894
+EV-10018,Obra,Media,Santa Fe,Microcentro,Obra reportado en zona de Microcentro,2026-05-22 14:14:50.101656,Activo,-34.60659988185416,-58.37791314759903
+EV-10019,Obra,Baja,Paseo Colon,Microcentro,Obra reportado en zona de Microcentro,2026-05-22 14:19:50.101656,Activo,-34.60026406602396,-58.382492243406936
+EV-10020,Obra,Baja,Belgrano,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-22 14:24:50.101656,Activo,-34.6108523575419,-58.3680659140491
+EV-10021,Choque,Alta,Rivadavia,Retiro,Choque reportado en zona de Retiro,2026-05-22 14:29:50.101656,Resuelto,-34.58952676047811,-58.37330553622597
+EV-10022,Corte,Baja,Rivadavia,Palermo,Corte reportado en zona de Palermo,2026-05-22 14:34:50.101656,Activo,-34.58423328824824,-58.429750102931166
+EV-10023,Corte,Baja,9 de Julio,Microcentro,Corte reportado en zona de Microcentro,2026-05-22 14:39:50.101656,Activo,-34.60671647205428,-58.37737578105343
+EV-10024,Choque,Media,Rivadavia,Puerto Madero,Choque reportado en zona de Puerto Madero,2026-05-22 14:44:50.101656,Activo,-34.61383860364518,-58.3662657696652
+EV-10025,Choque,Alta,Rivadavia,Microcentro,Choque reportado en zona de Microcentro,2026-05-22 14:49:50.101656,Activo,-34.60781426079245,-58.3771303812476
+EV-10026,Manifestacion,Baja,Corrientes,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-22 14:54:50.101656,Resuelto,-34.58903059705525,-58.397804404995576
+EV-10027,Corte,Baja,Belgrano,Palermo,Corte reportado en zona de Palermo,2026-05-22 14:59:50.101656,Activo,-34.588540193087304,-58.43144755114891
+EV-10028,Corte,Baja,Santa Fe,Palermo,Corte reportado en zona de Palermo,2026-05-22 15:04:50.101656,Resuelto,-34.58659765011999,-58.42977052609748
+EV-10029,Accidente multiple,Alta,Rivadavia,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-22 15:09:50.101656,Resuelto,-34.59939373147536,-58.37957588905544
+EV-10030,Choque,Alta,9 de Julio,Puerto Madero,Choque reportado en zona de Puerto Madero,2026-05-22 15:14:50.101656,Activo,-34.60951151370247,-58.36663534787822
+EV-10031,Semaforo fuera de servicio,Media,Cabildo,Caballito,Semaforo fuera de servicio reportado en zona de Caballito,2026-05-22 15:19:50.101656,Resuelto,-34.61929477332764,-58.44395295183157
+EV-10032,Semaforo fuera de servicio,Baja,Cabildo,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-22 15:24:50.101656,Activo,-34.587531826494285,-58.42723582907388
+EV-10033,Manifestacion,Media,Libertador,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-22 15:29:50.101656,Activo,-34.613873824839956,-58.36394734596397
+EV-10034,Semaforo fuera de servicio,Media,Santa Fe,Caballito,Semaforo fuera de servicio reportado en zona de Caballito,2026-05-22 15:34:50.101656,Activo,-34.61895192578158,-58.446512344548296
+EV-10035,Semaforo fuera de servicio,Media,Corrientes,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-22 15:39:50.101656,Activo,-34.60366885402512,-58.38244748279825
+EV-10036,Semaforo fuera de servicio,Media,Belgrano,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-22 15:44:50.101656,Resuelto,-34.58665611351812,-58.39654992448022
+EV-10037,Manifestacion,Baja,Santa Fe,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-22 15:49:50.101656,Activo,-34.561692424828664,-58.45742612519607
+EV-10038,Obra,Baja,Rivadavia,Recoleta,Obra reportado en zona de Recoleta,2026-05-22 15:54:50.101656,Activo,-34.590696206535284,-58.40068367086788
+EV-10039,Choque,Alta,9 de Julio,Puerto Madero,Choque reportado en zona de Puerto Madero,2026-05-22 15:59:50.101656,Activo,-34.616002516747635,-58.36618700208849
+EV-10040,Corte,Media,Libertador,Microcentro,Corte reportado en zona de Microcentro,2026-05-22 16:04:50.101656,Resuelto,-34.59891326738872,-58.37739023629562
+EV-10041,Accidente multiple,Alta,Libertador,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-22 16:09:50.101656,Activo,-34.61366342872912,-58.43781277758889
+EV-10042,Choque,Media,Belgrano,Retiro,Choque reportado en zona de Retiro,2026-05-22 16:14:50.101656,Activo,-34.59481825962399,-58.37025023989376
+EV-10043,Obra,Media,Rivadavia,Palermo,Obra reportado en zona de Palermo,2026-05-22 16:19:50.101656,Activo,-34.58789079619853,-58.42785112365759
+EV-10044,Semaforo fuera de servicio,Alta,Santa Fe,Caballito,Semaforo fuera de servicio reportado en zona de Caballito,2026-05-22 16:24:50.101656,Resuelto,-34.61663598294293,-58.43916388693509
+EV-10045,Semaforo fuera de servicio,Baja,Cabildo,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-22 16:29:50.101656,Resuelto,-34.58457766094415,-58.42682447607634
+EV-10046,Accidente multiple,Media,Corrientes,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-22 16:34:50.101656,Resuelto,-34.62274301139683,-58.44303459262548
+EV-10047,Manifestacion,Media,Rivadavia,Caballito,Manifestacion reportado en zona de Caballito,2026-05-22 16:39:50.101656,Resuelto,-34.614707234966886,-58.44195991721077
+EV-10048,Accidente multiple,Alta,Corrientes,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-22 16:44:50.101656,Activo,-34.60760781721569,-58.38224531503521
+EV-10049,Accidente multiple,Alta,Belgrano,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-22 16:49:50.101656,Activo,-34.55715761513631,-58.45964440583745
+EV-10050,Accidente multiple,Media,9 de Julio,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-22 16:54:50.101656,Activo,-34.58830881313862,-58.43242840657963
+EV-10051,Obra,Media,Cabildo,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-22 16:59:50.101656,Resuelto,-34.6131107353929,-58.359396758954
+EV-10052,Accidente multiple,Baja,Belgrano,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-22 17:04:50.101656,Resuelto,-34.615105552185206,-58.3638745727737
+EV-10053,Semaforo fuera de servicio,Baja,Santa Fe,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-22 17:09:50.101656,Resuelto,-34.61433990853539,-58.362402104058916
+EV-10054,Accidente multiple,Alta,Libertador,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-22 17:14:50.101656,Activo,-34.56502984054734,-58.45395505293607
+EV-10055,Choque,Media,Cabildo,Retiro,Choque reportado en zona de Retiro,2026-05-22 17:19:50.101656,Activo,-34.591844616970654,-58.371438884875744
+EV-10056,Accidente multiple,Media,Rivadavia,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-22 17:24:50.101656,Activo,-34.56106340479117,-58.45941641245235
+EV-10057,Obra,Baja,Santa Fe,Caballito,Obra reportado en zona de Caballito,2026-05-22 17:29:50.101656,Resuelto,-34.622141854898096,-58.44644661687609
+EV-10058,Manifestacion,Media,Rivadavia,Microcentro,Manifestacion reportado en zona de Microcentro,2026-05-22 17:34:50.101656,Resuelto,-34.60686605929078,-58.380979943095234
+EV-10059,Manifestacion,Alta,Belgrano,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-22 17:39:50.101656,Activo,-34.586146615053444,-58.40068259156671
+EV-10060,Choque,Media,Santa Fe,Retiro,Choque reportado en zona de Retiro,2026-05-22 17:44:50.101656,Activo,-34.59634918495438,-58.37596476938899
+EV-10061,Corte,Baja,Paseo Colon,Belgrano,Corte reportado en zona de Belgrano,2026-05-22 17:49:50.101656,Activo,-34.55717060233948,-58.45978296336022
+EV-10062,Obra,Alta,Belgrano,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-22 17:54:50.101656,Resuelto,-34.60807959337777,-58.36795059284847
+EV-10063,Semaforo fuera de servicio,Baja,Belgrano,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-22 17:59:50.101656,Activo,-34.5624501382189,-58.46124337793141
+EV-10064,Semaforo fuera de servicio,Alta,Corrientes,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-22 18:04:50.101656,Resuelto,-34.557291425355395,-58.46002264528406
+EV-10065,Corte,Media,Paseo Colon,Microcentro,Corte reportado en zona de Microcentro,2026-05-22 18:09:50.101656,Resuelto,-34.60631429286303,-58.38217481383824
+EV-10066,Corte,Media,Rivadavia,Retiro,Corte reportado en zona de Retiro,2026-05-22 18:14:50.101656,Activo,-34.59650392681723,-58.37567183685826
+EV-10067,Choque,Alta,Corrientes,Belgrano,Choque reportado en zona de Belgrano,2026-05-22 18:19:50.101656,Activo,-34.56682335632256,-58.45998610579216
+EV-10068,Semaforo fuera de servicio,Baja,Paseo Colon,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-22 18:24:50.101656,Resuelto,-34.60102109314853,-58.38064159751926
+EV-10069,Manifestacion,Alta,Cabildo,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-22 18:29:50.101656,Activo,-34.58964065966416,-58.39631563388865
+EV-10070,Semaforo fuera de servicio,Baja,Santa Fe,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-22 18:34:50.101656,Activo,-34.59136823731057,-58.39420030225965
+EV-10071,Corte,Baja,Paseo Colon,Microcentro,Corte reportado en zona de Microcentro,2026-05-22 18:39:50.101656,Resuelto,-34.60236350290458,-58.38241087381008
+EV-10072,Semaforo fuera de servicio,Baja,Rivadavia,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-22 18:44:50.101656,Resuelto,-34.58593780271766,-58.43306179855871
+EV-10073,Semaforo fuera de servicio,Media,Libertador,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-22 18:49:50.101656,Activo,-34.610061119523344,-58.36324881805717
+EV-10074,Accidente multiple,Alta,9 de Julio,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-22 18:54:50.101656,Activo,-34.557444206554464,-58.459154400280696
+EV-10075,Semaforo fuera de servicio,Baja,Belgrano,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-22 18:59:50.101656,Activo,-34.61339632379215,-58.364265320617385
+EV-10076,Corte,Baja,Paseo Colon,Palermo,Corte reportado en zona de Palermo,2026-05-22 19:04:50.101656,Resuelto,-34.59087218765223,-58.42972091732739
+EV-10077,Accidente multiple,Media,Paseo Colon,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-22 19:09:50.101656,Resuelto,-34.622368998173066,-58.443485040974835
+EV-10078,Semaforo fuera de servicio,Baja,Rivadavia,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-22 19:14:50.101656,Activo,-34.55839026419206,-58.45324969932177
+EV-10079,Manifestacion,Media,Santa Fe,Microcentro,Manifestacion reportado en zona de Microcentro,2026-05-22 19:19:50.101656,Activo,-34.602353348515614,-58.38162066608944
+EV-10080,Obra,Baja,Libertador,Recoleta,Obra reportado en zona de Recoleta,2026-05-22 19:24:50.101656,Activo,-34.5890808680783,-58.40164982296471
+EV-10081,Choque,Media,Santa Fe,Belgrano,Choque reportado en zona de Belgrano,2026-05-22 19:29:50.101656,Activo,-34.56641719923037,-58.453486403236695
+EV-10082,Choque,Alta,Cabildo,Retiro,Choque reportado en zona de Retiro,2026-05-22 19:34:50.101656,Resuelto,-34.59338731822395,-58.371406294360675
+EV-10083,Semaforo fuera de servicio,Alta,Corrientes,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-22 19:39:50.101656,Activo,-34.59383682901786,-58.372455341922134
+EV-10084,Corte,Media,Libertador,Recoleta,Corte reportado en zona de Recoleta,2026-05-22 19:44:50.101656,Activo,-34.587830620779236,-58.39777745367086
+EV-10085,Accidente multiple,Media,Paseo Colon,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-22 19:49:50.101656,Activo,-34.61875691209796,-58.437976606468915
+EV-10086,Obra,Alta,Cabildo,Palermo,Obra reportado en zona de Palermo,2026-05-22 19:54:50.101656,Resuelto,-34.59038891113141,-58.428142050848415
+EV-10087,Obra,Alta,Corrientes,Caballito,Obra reportado en zona de Caballito,2026-05-22 19:59:50.101656,Activo,-34.616745056409364,-58.44135111390641
+EV-10088,Choque,Alta,Paseo Colon,Palermo,Choque reportado en zona de Palermo,2026-05-22 20:04:50.101656,Activo,-34.58259408780543,-58.42880120566582
+EV-10089,Manifestacion,Media,Rivadavia,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-22 20:09:50.101656,Resuelto,-34.59109333835407,-58.398775533822715
+EV-10090,Manifestacion,Baja,Belgrano,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-22 20:14:50.101656,Activo,-34.56461689270314,-58.45308230519605
+EV-10091,Manifestacion,Media,Corrientes,Palermo,Manifestacion reportado en zona de Palermo,2026-05-22 20:19:50.101656,Activo,-34.58508428638318,-58.428064118764894
+EV-10092,Obra,Alta,Libertador,Retiro,Obra reportado en zona de Retiro,2026-05-22 20:24:50.101656,Resuelto,-34.593545300411854,-58.37234602776027
+EV-10093,Semaforo fuera de servicio,Media,Cabildo,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-22 20:29:50.101656,Resuelto,-34.606962384684415,-58.38161539692516
+EV-10094,Obra,Baja,Paseo Colon,Palermo,Obra reportado en zona de Palermo,2026-05-22 20:34:50.101656,Resuelto,-34.58457146455516,-58.42591533039038
+EV-10095,Semaforo fuera de servicio,Alta,Belgrano,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-22 20:39:50.101656,Activo,-34.58768131448706,-58.378081538175145
+EV-10096,Corte,Media,Santa Fe,Belgrano,Corte reportado en zona de Belgrano,2026-05-22 20:44:50.101656,Activo,-34.56422225947649,-58.45405776542304
+EV-10097,Choque,Alta,Paseo Colon,Microcentro,Choque reportado en zona de Microcentro,2026-05-22 20:49:50.101656,Resuelto,-34.606048150263305,-58.383685681500545
+EV-10098,Manifestacion,Media,Cabildo,Caballito,Manifestacion reportado en zona de Caballito,2026-05-22 20:54:50.101656,Resuelto,-34.61366412685948,-58.43743877975689
+EV-10099,Accidente multiple,Media,Paseo Colon,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-22 20:59:50.101656,Activo,-34.60435270613825,-58.37770066350164
+EV-10100,Choque,Media,Belgrano,Belgrano,Choque reportado en zona de Belgrano,2026-05-22 21:04:50.101656,Activo,-34.56437284936097,-58.45350114677873
+EV-10101,Choque,Media,Corrientes,Belgrano,Choque reportado en zona de Belgrano,2026-05-22 21:09:50.101656,Resuelto,-34.56567413302663,-58.452657182633224
+EV-10102,Corte,Alta,Santa Fe,Caballito,Corte reportado en zona de Caballito,2026-05-22 21:14:50.101656,Resuelto,-34.616770262661355,-58.43959921738823
+EV-10103,Choque,Media,Cabildo,Caballito,Choque reportado en zona de Caballito,2026-05-22 21:19:50.101656,Resuelto,-34.61914630260056,-58.44271231722457
+EV-10104,Accidente multiple,Alta,Corrientes,Recoleta,Accidente multiple reportado en zona de Recoleta,2026-05-22 21:24:50.101656,Resuelto,-34.58857790778523,-58.392600281908805
+EV-10105,Corte,Baja,Belgrano,Belgrano,Corte reportado en zona de Belgrano,2026-05-22 21:29:50.101656,Activo,-34.5585424893433,-58.45847401379873
+EV-10106,Accidente multiple,Media,9 de Julio,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-22 21:34:50.101656,Resuelto,-34.58351737786332,-58.43333449739393
+EV-10107,Obra,Baja,Libertador,Retiro,Obra reportado en zona de Retiro,2026-05-22 21:39:50.101656,Activo,-34.590611224298705,-58.376396149003405
+EV-10108,Corte,Alta,Belgrano,Microcentro,Corte reportado en zona de Microcentro,2026-05-22 21:44:50.101656,Resuelto,-34.60228355265726,-58.37740902653796
+EV-10109,Accidente multiple,Alta,Corrientes,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-22 21:49:50.101656,Activo,-34.56602138747331,-58.45294830533792
+EV-10110,Corte,Baja,Corrientes,Recoleta,Corte reportado en zona de Recoleta,2026-05-22 21:54:50.101656,Resuelto,-34.58699982353616,-58.392510422580465
+EV-10111,Semaforo fuera de servicio,Alta,Santa Fe,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-22 21:59:50.101656,Activo,-34.59592749557164,-58.36995963926511
+EV-10112,Corte,Alta,Paseo Colon,Retiro,Corte reportado en zona de Retiro,2026-05-22 22:04:50.101656,Resuelto,-34.59125047796056,-58.37436830539317
+EV-10113,Corte,Baja,9 de Julio,Retiro,Corte reportado en zona de Retiro,2026-05-22 22:09:50.101656,Resuelto,-34.58675920668651,-58.37763479284636
+EV-10114,Accidente multiple,Media,Cabildo,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-22 22:14:50.101656,Activo,-34.584557668149394,-58.4299479292007
+EV-10115,Choque,Alta,Santa Fe,Puerto Madero,Choque reportado en zona de Puerto Madero,2026-05-22 22:19:50.101656,Activo,-34.61632269223146,-58.359682693631264
+EV-10116,Corte,Media,Libertador,Palermo,Corte reportado en zona de Palermo,2026-05-22 22:24:50.101656,Resuelto,-34.58792800169419,-58.42745888999181
+EV-10117,Semaforo fuera de servicio,Media,Cabildo,Caballito,Semaforo fuera de servicio reportado en zona de Caballito,2026-05-22 22:29:50.101656,Resuelto,-34.615921096817,-58.44511354882623
+EV-10118,Corte,Baja,Libertador,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-22 22:34:50.101656,Activo,-34.61109462527017,-58.36558878264616
+EV-10119,Semaforo fuera de servicio,Baja,Paseo Colon,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-22 22:39:50.101656,Resuelto,-34.607663697601225,-58.38459836786232
+EV-10120,Choque,Alta,Santa Fe,Microcentro,Choque reportado en zona de Microcentro,2026-05-22 22:44:50.101656,Resuelto,-34.599862876526885,-58.380888565850945
+EV-10121,Semaforo fuera de servicio,Alta,Belgrano,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-22 22:49:50.101656,Resuelto,-34.59340595304263,-58.398970811212536
+EV-10122,Manifestacion,Alta,9 de Julio,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-22 22:54:50.101656,Activo,-34.61453219799044,-58.366818954951626
+EV-10123,Obra,Baja,9 de Julio,Caballito,Obra reportado en zona de Caballito,2026-05-22 22:59:50.101656,Activo,-34.62103674384703,-58.438490794170455
+EV-10124,Manifestacion,Baja,Santa Fe,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-22 23:04:50.101656,Resuelto,-34.61581406225968,-58.36099408145367
+EV-10125,Obra,Media,Libertador,Retiro,Obra reportado en zona de Retiro,2026-05-22 23:09:50.101656,Resuelto,-34.59030312330425,-58.37097618504035
+EV-10126,Semaforo fuera de servicio,Alta,Santa Fe,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-22 23:14:50.101656,Activo,-34.557730559269196,-58.4569738695867
+EV-10127,Semaforo fuera de servicio,Baja,Libertador,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-22 23:19:50.101656,Activo,-34.59196081571675,-58.39967537589979
+EV-10128,Manifestacion,Baja,Belgrano,Caballito,Manifestacion reportado en zona de Caballito,2026-05-22 23:24:50.101656,Activo,-34.62093263577034,-58.446269817992786
+EV-10129,Semaforo fuera de servicio,Baja,Libertador,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-22 23:29:50.101656,Resuelto,-34.6021435760763,-58.38442973605791
+EV-10130,Choque,Alta,Cabildo,Microcentro,Choque reportado en zona de Microcentro,2026-05-22 23:34:50.101656,Activo,-34.6044694942216,-58.37919535681366
+EV-10131,Obra,Alta,Libertador,Retiro,Obra reportado en zona de Retiro,2026-05-22 23:39:50.101656,Activo,-34.59139715477842,-58.37535804912349
+EV-10132,Manifestacion,Alta,Libertador,Palermo,Manifestacion reportado en zona de Palermo,2026-05-22 23:44:50.101656,Activo,-34.591048257887046,-58.427474711893375
+EV-10133,Manifestacion,Media,Corrientes,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-22 23:49:50.101656,Resuelto,-34.56381269078976,-58.453344614776555
+EV-10134,Semaforo fuera de servicio,Alta,9 de Julio,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-22 23:54:50.101656,Resuelto,-34.56628330205488,-58.459368385110714
+EV-10135,Semaforo fuera de servicio,Media,Santa Fe,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-22 23:59:50.101656,Activo,-34.565262238797644,-58.457123525487916
+EV-10136,Semaforo fuera de servicio,Alta,9 de Julio,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-23 00:04:50.101656,Resuelto,-34.5626094153968,-58.455927794840136
+EV-10137,Choque,Media,Rivadavia,Caballito,Choque reportado en zona de Caballito,2026-05-23 00:09:50.101656,Activo,-34.62277619155096,-58.446777443697435
+EV-10138,Obra,Media,Paseo Colon,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-23 00:14:50.101656,Activo,-34.61480530022966,-58.36280550749827
+EV-10139,Corte,Media,Belgrano,Microcentro,Corte reportado en zona de Microcentro,2026-05-23 00:19:50.101656,Activo,-34.60006064220905,-58.380574770751394
+EV-10140,Choque,Alta,Corrientes,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 00:24:50.101656,Activo,-34.59263198609428,-58.40032639742937
+EV-10141,Obra,Baja,Cabildo,Microcentro,Obra reportado en zona de Microcentro,2026-05-23 00:29:50.101656,Resuelto,-34.60558917304027,-58.37837649227199
+EV-10142,Choque,Media,Corrientes,Palermo,Choque reportado en zona de Palermo,2026-05-23 00:34:50.101656,Activo,-34.584192477595494,-58.43056718540632
+EV-10143,Obra,Media,Paseo Colon,Recoleta,Obra reportado en zona de Recoleta,2026-05-23 00:39:50.101656,Activo,-34.587365653303706,-58.39351390140609
+EV-10144,Accidente multiple,Alta,Corrientes,Recoleta,Accidente multiple reportado en zona de Recoleta,2026-05-23 00:44:50.101656,Resuelto,-34.592943982338724,-58.39652078114875
+EV-10145,Obra,Media,Libertador,Palermo,Obra reportado en zona de Palermo,2026-05-23 00:49:50.101656,Resuelto,-34.58379803265895,-58.43124797005186
+EV-10146,Semaforo fuera de servicio,Media,Rivadavia,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 00:54:50.101656,Activo,-34.582724511799306,-58.42971468424884
+EV-10147,Accidente multiple,Media,Rivadavia,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 00:59:50.101656,Resuelto,-34.614969882516256,-58.36404129159908
+EV-10148,Semaforo fuera de servicio,Baja,Paseo Colon,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 01:04:50.101656,Activo,-34.591889473054145,-58.428742753168095
+EV-10149,Corte,Media,Paseo Colon,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-23 01:09:50.101656,Resuelto,-34.61475306565313,-58.35932630843352
+EV-10150,Semaforo fuera de servicio,Baja,Libertador,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-23 01:14:50.101656,Activo,-34.5661819270831,-58.45503373287121
+EV-10151,Corte,Alta,Rivadavia,Belgrano,Corte reportado en zona de Belgrano,2026-05-23 01:19:50.101656,Resuelto,-34.566837095913485,-58.45485927456949
+EV-10152,Manifestacion,Media,Belgrano,Retiro,Manifestacion reportado en zona de Retiro,2026-05-23 01:24:50.101656,Resuelto,-34.593841370487546,-58.37421407206086
+EV-10153,Semaforo fuera de servicio,Alta,Libertador,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-23 01:29:50.101656,Activo,-34.615147404542064,-58.36392309356123
+EV-10154,Obra,Baja,Corrientes,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-23 01:34:50.101656,Activo,-34.616760783600135,-58.367629748020406
+EV-10155,Semaforo fuera de servicio,Alta,9 de Julio,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-23 01:39:50.101656,Activo,-34.558500267470116,-58.46062169922236
+EV-10156,Obra,Media,9 de Julio,Caballito,Obra reportado en zona de Caballito,2026-05-23 01:44:50.101656,Activo,-34.61574090372355,-58.440337869181015
+EV-10157,Semaforo fuera de servicio,Alta,Cabildo,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 01:49:50.101656,Activo,-34.58517879599473,-58.4287227430244
+EV-10158,Choque,Baja,Rivadavia,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 01:54:50.101656,Activo,-34.58417641434027,-58.39966589275437
+EV-10159,Manifestacion,Baja,Libertador,Retiro,Manifestacion reportado en zona de Retiro,2026-05-23 01:59:50.101656,Activo,-34.587397122040244,-58.37641914233396
+EV-10160,Choque,Media,Cabildo,Palermo,Choque reportado en zona de Palermo,2026-05-23 02:04:50.101656,Resuelto,-34.5835104254527,-58.42894856585373
+EV-10161,Semaforo fuera de servicio,Media,9 de Julio,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-23 02:09:50.101656,Activo,-34.588453935696094,-58.378883074518505
+EV-10162,Choque,Media,Santa Fe,Retiro,Choque reportado en zona de Retiro,2026-05-23 02:14:50.101656,Resuelto,-34.58829174566519,-58.37906254073366
+EV-10163,Corte,Alta,Cabildo,Palermo,Corte reportado en zona de Palermo,2026-05-23 02:19:50.101656,Resuelto,-34.582504506377546,-58.42957457960292
+EV-10164,Accidente multiple,Media,Corrientes,Recoleta,Accidente multiple reportado en zona de Recoleta,2026-05-23 02:24:50.101656,Resuelto,-34.58783728018607,-58.394836252550576
+EV-10165,Corte,Baja,Santa Fe,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-23 02:29:50.101656,Activo,-34.614563520272874,-58.36585385060801
+EV-10166,Accidente multiple,Alta,Santa Fe,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-23 02:34:50.101656,Resuelto,-34.59231330501274,-58.430251794281425
+EV-10167,Semaforo fuera de servicio,Alta,Corrientes,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 02:39:50.101656,Activo,-34.591115190302915,-58.429804065491496
+EV-10168,Semaforo fuera de servicio,Media,Belgrano,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-23 02:44:50.101656,Activo,-34.604246487467215,-58.37665152136632
+EV-10169,Choque,Alta,Santa Fe,Retiro,Choque reportado en zona de Retiro,2026-05-23 02:49:50.101656,Resuelto,-34.590019369400956,-58.37642115398282
+EV-10170,Manifestacion,Baja,Santa Fe,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 02:54:50.101656,Activo,-34.566420227053605,-58.45745637728995
+EV-10171,Accidente multiple,Baja,Corrientes,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-23 02:59:50.101656,Activo,-34.605054560611215,-58.38161546684062
+EV-10172,Accidente multiple,Alta,9 de Julio,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-23 03:04:50.101656,Activo,-34.5662182083543,-58.45175829314309
+EV-10173,Accidente multiple,Alta,Belgrano,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 03:09:50.101656,Activo,-34.61253566122751,-58.36114705325787
+EV-10174,Obra,Media,Rivadavia,Caballito,Obra reportado en zona de Caballito,2026-05-23 03:14:50.101656,Resuelto,-34.61404435622986,-58.439919960000935
+EV-10175,Choque,Alta,Belgrano,Palermo,Choque reportado en zona de Palermo,2026-05-23 03:19:50.101656,Activo,-34.58532873456663,-58.42772729636155
+EV-10176,Choque,Alta,9 de Julio,Microcentro,Choque reportado en zona de Microcentro,2026-05-23 03:24:50.101656,Resuelto,-34.6012459467579,-58.38461097666739
+EV-10177,Accidente multiple,Alta,Belgrano,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-23 03:29:50.101656,Activo,-34.585201477457765,-58.432843485886025
+EV-10178,Corte,Baja,Libertador,Microcentro,Corte reportado en zona de Microcentro,2026-05-23 03:34:50.101656,Resuelto,-34.60467602860909,-58.381141764503816
+EV-10179,Obra,Alta,Paseo Colon,Recoleta,Obra reportado en zona de Recoleta,2026-05-23 03:39:50.101656,Resuelto,-34.585267507042076,-58.39943503218148
+EV-10180,Corte,Baja,Cabildo,Palermo,Corte reportado en zona de Palermo,2026-05-23 03:44:50.101656,Resuelto,-34.59192571264405,-58.43326607716403
+EV-10181,Semaforo fuera de servicio,Media,Cabildo,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-23 03:49:50.101656,Resuelto,-34.616793320764785,-58.36504697538733
+EV-10182,Accidente multiple,Media,Libertador,Retiro,Accidente multiple reportado en zona de Retiro,2026-05-23 03:54:50.101656,Resuelto,-34.59641451604843,-58.374354702057346
+EV-10183,Choque,Alta,Santa Fe,Microcentro,Choque reportado en zona de Microcentro,2026-05-23 03:59:50.101656,Activo,-34.60809013324205,-58.38615030113809
+EV-10184,Corte,Media,Corrientes,Recoleta,Corte reportado en zona de Recoleta,2026-05-23 04:04:50.101656,Resuelto,-34.58898086355526,-58.394650761910924
+EV-10185,Accidente multiple,Alta,Cabildo,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-23 04:09:50.101656,Resuelto,-34.6163576855341,-58.444579186769936
+EV-10186,Semaforo fuera de servicio,Baja,Libertador,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-23 04:14:50.101656,Resuelto,-34.60952119414429,-58.36235841359479
+EV-10187,Corte,Baja,Rivadavia,Belgrano,Corte reportado en zona de Belgrano,2026-05-23 04:19:50.101656,Resuelto,-34.5661977259256,-58.453377859263746
+EV-10188,Obra,Alta,9 de Julio,Palermo,Obra reportado en zona de Palermo,2026-05-23 04:24:50.101656,Resuelto,-34.591579946511,-58.433883027425765
+EV-10189,Choque,Media,Santa Fe,Belgrano,Choque reportado en zona de Belgrano,2026-05-23 04:29:50.101656,Activo,-34.562615274596666,-58.460528776103956
+EV-10190,Semaforo fuera de servicio,Alta,Belgrano,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 04:34:50.101656,Activo,-34.58763831135054,-58.43166165858637
+EV-10191,Manifestacion,Baja,Santa Fe,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-23 04:39:50.101656,Resuelto,-34.58854631054275,-58.39965879665842
+EV-10192,Semaforo fuera de servicio,Media,Belgrano,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-23 04:44:50.101656,Resuelto,-34.5884521340007,-58.39319828993211
+EV-10193,Corte,Baja,Santa Fe,Palermo,Corte reportado en zona de Palermo,2026-05-23 04:49:50.101656,Activo,-34.58607445931227,-58.42623367583075
+EV-10194,Manifestacion,Alta,Rivadavia,Palermo,Manifestacion reportado en zona de Palermo,2026-05-23 04:54:50.101656,Resuelto,-34.586723362324115,-58.42784437700095
+EV-10195,Corte,Media,Cabildo,Belgrano,Corte reportado en zona de Belgrano,2026-05-23 04:59:50.101656,Resuelto,-34.55978594087395,-58.45911197345081
+EV-10196,Manifestacion,Baja,Santa Fe,Microcentro,Manifestacion reportado en zona de Microcentro,2026-05-23 05:04:50.101656,Resuelto,-34.60669185925911,-58.38402846349418
+EV-10197,Choque,Alta,Santa Fe,Caballito,Choque reportado en zona de Caballito,2026-05-23 05:09:50.101656,Resuelto,-34.61456538376975,-58.442922444126275
+EV-10198,Manifestacion,Media,Corrientes,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-23 05:14:50.101656,Resuelto,-34.60737989937781,-58.35908641462029
+EV-10199,Obra,Alta,Belgrano,Belgrano,Obra reportado en zona de Belgrano,2026-05-23 05:19:50.101656,Activo,-34.56168328870514,-58.456560394121325
+EV-10200,Corte,Media,Cabildo,Microcentro,Corte reportado en zona de Microcentro,2026-05-23 05:24:50.101656,Resuelto,-34.60126072849285,-58.385848365832004
+EV-10201,Accidente multiple,Alta,Corrientes,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 05:29:50.101656,Resuelto,-34.60777720144287,-58.36174202379304
+EV-10202,Manifestacion,Alta,Rivadavia,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 05:34:50.101656,Resuelto,-34.56466485365097,-58.459892402711745
+EV-10203,Choque,Alta,Rivadavia,Retiro,Choque reportado en zona de Retiro,2026-05-23 05:39:50.101656,Resuelto,-34.58785113796998,-58.37281056860566
+EV-10204,Corte,Baja,Belgrano,Microcentro,Corte reportado en zona de Microcentro,2026-05-23 05:44:50.101656,Resuelto,-34.600145037881525,-58.38046101051763
+EV-10205,Manifestacion,Alta,Belgrano,Retiro,Manifestacion reportado en zona de Retiro,2026-05-23 05:49:50.101656,Activo,-34.59440805288597,-58.37121515381132
+EV-10206,Manifestacion,Alta,Cabildo,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 05:54:50.101656,Activo,-34.55855623316623,-58.45737135413631
+EV-10207,Manifestacion,Media,Rivadavia,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 05:59:50.101656,Activo,-34.56604128203871,-58.451656908449316
+EV-10208,Manifestacion,Baja,Santa Fe,Retiro,Manifestacion reportado en zona de Retiro,2026-05-23 06:04:50.101656,Activo,-34.59388574377546,-58.37400230830609
+EV-10209,Corte,Media,Paseo Colon,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-23 06:09:50.101656,Activo,-34.61550695140169,-58.36314256284999
+EV-10210,Accidente multiple,Alta,Corrientes,Recoleta,Accidente multiple reportado en zona de Recoleta,2026-05-23 06:14:50.101656,Activo,-34.58712986619701,-58.39519095997728
+EV-10211,Obra,Baja,Corrientes,Recoleta,Obra reportado en zona de Recoleta,2026-05-23 06:19:50.101656,Resuelto,-34.59234130376935,-58.395551321005804
+EV-10212,Obra,Baja,Rivadavia,Caballito,Obra reportado en zona de Caballito,2026-05-23 06:24:50.101656,Activo,-34.616529327156,-58.439002258765
+EV-10213,Corte,Media,Belgrano,Caballito,Corte reportado en zona de Caballito,2026-05-23 06:29:50.101656,Resuelto,-34.61882871114015,-58.440222972644165
+EV-10214,Accidente multiple,Media,9 de Julio,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-23 06:34:50.101656,Resuelto,-34.60819808443278,-58.38122008859583
+EV-10215,Choque,Baja,Corrientes,Puerto Madero,Choque reportado en zona de Puerto Madero,2026-05-23 06:39:50.101656,Resuelto,-34.60850931365171,-58.36378337203719
+EV-10216,Corte,Media,Rivadavia,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-23 06:44:50.101656,Activo,-34.61284450006305,-58.368209546894555
+EV-10217,Choque,Media,Rivadavia,Palermo,Choque reportado en zona de Palermo,2026-05-23 06:49:50.101656,Resuelto,-34.587539198619645,-58.42715010178112
+EV-10218,Choque,Alta,Belgrano,Caballito,Choque reportado en zona de Caballito,2026-05-23 06:54:50.101656,Resuelto,-34.619828608685204,-58.43982149083416
+EV-10219,Accidente multiple,Baja,Paseo Colon,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-23 06:59:50.101656,Resuelto,-34.61917433456402,-58.43784537694766
+EV-10220,Choque,Alta,Rivadavia,Retiro,Choque reportado en zona de Retiro,2026-05-23 07:04:50.101656,Resuelto,-34.58858859155476,-58.369923634885474
+EV-10221,Choque,Media,Cabildo,Retiro,Choque reportado en zona de Retiro,2026-05-23 07:09:50.101656,Resuelto,-34.59439672997432,-58.37388176370585
+EV-10222,Semaforo fuera de servicio,Media,Rivadavia,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-23 07:14:50.101656,Activo,-34.59927529952877,-58.382340822549885
+EV-10223,Manifestacion,Baja,Belgrano,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-23 07:19:50.101656,Resuelto,-34.58828162746627,-58.393551976055875
+EV-10224,Accidente multiple,Media,Santa Fe,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-23 07:24:50.101656,Activo,-34.58811035414192,-58.42544824926647
+EV-10225,Corte,Media,Paseo Colon,Microcentro,Corte reportado en zona de Microcentro,2026-05-23 07:29:50.101656,Resuelto,-34.60142819031198,-58.381701045240284
+EV-10226,Obra,Baja,Belgrano,Recoleta,Obra reportado en zona de Recoleta,2026-05-23 07:34:50.101656,Activo,-34.59257621696176,-58.39846579781802
+EV-10227,Semaforo fuera de servicio,Baja,Santa Fe,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-23 07:39:50.101656,Resuelto,-34.61266214939782,-58.36594733659956
+EV-10228,Semaforo fuera de servicio,Media,Belgrano,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 07:44:50.101656,Resuelto,-34.58473586565348,-58.43445019251769
+EV-10229,Choque,Media,Cabildo,Microcentro,Choque reportado en zona de Microcentro,2026-05-23 07:49:50.101656,Activo,-34.60696066192184,-58.38330668017203
+EV-10230,Semaforo fuera de servicio,Alta,Cabildo,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 07:54:50.101656,Activo,-34.58612105186163,-58.432341936824315
+EV-10231,Obra,Baja,Libertador,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-23 07:59:50.101656,Activo,-34.611532953773576,-58.36382992919338
+EV-10232,Semaforo fuera de servicio,Alta,Libertador,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 08:04:50.101656,Activo,-34.584854343363816,-58.4286527209593
+EV-10233,Choque,Baja,Libertador,Microcentro,Choque reportado en zona de Microcentro,2026-05-23 08:09:50.101656,Resuelto,-34.60784691618949,-58.37696075598601
+EV-10234,Corte,Baja,Corrientes,Caballito,Corte reportado en zona de Caballito,2026-05-23 08:14:50.101656,Resuelto,-34.614886641521394,-58.44631056232752
+EV-10235,Manifestacion,Alta,Belgrano,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-23 08:19:50.101656,Resuelto,-34.592817484904785,-58.39919560513384
+EV-10236,Choque,Alta,Corrientes,Palermo,Choque reportado en zona de Palermo,2026-05-23 08:24:50.101656,Activo,-34.58508039432654,-58.42763837471652
+EV-10237,Obra,Alta,Santa Fe,Belgrano,Obra reportado en zona de Belgrano,2026-05-23 08:29:50.101656,Resuelto,-34.56477798055494,-58.45327935154438
+EV-10238,Accidente multiple,Baja,9 de Julio,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 08:34:50.101656,Activo,-34.60976874137264,-58.36704869645972
+EV-10239,Semaforo fuera de servicio,Baja,Libertador,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-23 08:39:50.101656,Activo,-34.60769868895235,-58.376688727292496
+EV-10240,Accidente multiple,Alta,9 de Julio,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 08:44:50.101656,Resuelto,-34.61441073540279,-58.36332299711685
+EV-10241,Manifestacion,Baja,Paseo Colon,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-23 08:49:50.101656,Resuelto,-34.61248545551332,-58.36227558595981
+EV-10242,Choque,Alta,Rivadavia,Microcentro,Choque reportado en zona de Microcentro,2026-05-23 08:54:50.101656,Resuelto,-34.60250488847906,-58.383481793785464
+EV-10243,Obra,Baja,Santa Fe,Retiro,Obra reportado en zona de Retiro,2026-05-23 08:59:50.101656,Activo,-34.5873796957568,-58.37963557688735
+EV-10244,Manifestacion,Media,Rivadavia,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-23 09:04:50.101656,Resuelto,-34.61065095087725,-58.36827845659435
+EV-10245,Accidente multiple,Baja,Santa Fe,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 09:09:50.101656,Resuelto,-34.61075572849416,-58.362992742843026
+EV-10246,Corte,Alta,Cabildo,Retiro,Corte reportado en zona de Retiro,2026-05-23 09:14:50.101656,Resuelto,-34.58960378006456,-58.37441669051355
+EV-10247,Corte,Alta,Santa Fe,Belgrano,Corte reportado en zona de Belgrano,2026-05-23 09:19:50.101656,Resuelto,-34.559934486697834,-58.45553094140145
+EV-10248,Accidente multiple,Media,9 de Julio,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 09:24:50.101656,Resuelto,-34.61357987068928,-58.36733755297594
+EV-10249,Semaforo fuera de servicio,Media,Libertador,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-23 09:29:50.101656,Resuelto,-34.59207531117411,-58.37928381427474
+EV-10250,Obra,Media,Corrientes,Microcentro,Obra reportado en zona de Microcentro,2026-05-23 09:34:50.101656,Activo,-34.606460141807936,-58.38004188756821
+EV-10251,Corte,Media,Paseo Colon,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-23 09:39:50.101656,Activo,-34.61375422740754,-58.36264475291214
+EV-10252,Semaforo fuera de servicio,Baja,Cabildo,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-23 09:44:50.101656,Activo,-34.603842617215705,-58.37707220597202
+EV-10253,Choque,Alta,Santa Fe,Retiro,Choque reportado en zona de Retiro,2026-05-23 09:49:50.101656,Resuelto,-34.588041402297115,-58.370376608134926
+EV-10254,Obra,Alta,Cabildo,Recoleta,Obra reportado en zona de Recoleta,2026-05-23 09:54:50.101656,Resuelto,-34.587049499531716,-58.40053211776675
+EV-10255,Choque,Alta,9 de Julio,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 09:59:50.101656,Activo,-34.58477390779711,-58.3962446047041
+EV-10256,Semaforo fuera de servicio,Baja,Belgrano,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-23 10:04:50.101656,Activo,-34.60585447796164,-58.37759984028868
+EV-10257,Semaforo fuera de servicio,Alta,9 de Julio,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-23 10:09:50.101656,Resuelto,-34.612319968561614,-58.368151035384
+EV-10258,Semaforo fuera de servicio,Baja,Belgrano,Caballito,Semaforo fuera de servicio reportado en zona de Caballito,2026-05-23 10:14:50.101656,Resuelto,-34.614544745584126,-58.44256111371663
+EV-10259,Obra,Baja,Corrientes,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-23 10:19:50.101656,Resuelto,-34.6127265474543,-58.36229167403855
+EV-10260,Corte,Baja,9 de Julio,Caballito,Corte reportado en zona de Caballito,2026-05-23 10:24:50.101656,Activo,-34.617225158874426,-58.446309847680226
+EV-10261,Corte,Alta,Libertador,Belgrano,Corte reportado en zona de Belgrano,2026-05-23 10:29:50.101656,Activo,-34.558440693831415,-58.455444824324374
+EV-10262,Choque,Alta,9 de Julio,Retiro,Choque reportado en zona de Retiro,2026-05-23 10:34:50.101656,Resuelto,-34.59537695418443,-58.37707101953883
+EV-10263,Obra,Alta,9 de Julio,Caballito,Obra reportado en zona de Caballito,2026-05-23 10:39:50.101656,Activo,-34.621852745063364,-58.43783380143443
+EV-10264,Corte,Baja,Cabildo,Palermo,Corte reportado en zona de Palermo,2026-05-23 10:44:50.101656,Activo,-34.58492701644709,-58.428426574357154
+EV-10265,Semaforo fuera de servicio,Baja,Cabildo,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-23 10:49:50.101656,Activo,-34.5580705211497,-58.453903396071496
+EV-10266,Semaforo fuera de servicio,Alta,Corrientes,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-23 10:54:50.101656,Activo,-34.55823984823492,-58.45447510770041
+EV-10267,Obra,Baja,Cabildo,Microcentro,Obra reportado en zona de Microcentro,2026-05-23 10:59:50.101656,Resuelto,-34.60710957436438,-58.38177789614857
+EV-10268,Choque,Media,Santa Fe,Palermo,Choque reportado en zona de Palermo,2026-05-23 11:04:50.101656,Resuelto,-34.58816688558573,-58.429379647322236
+EV-10269,Accidente multiple,Media,Rivadavia,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 11:09:50.101656,Resuelto,-34.616359561193526,-58.36117012239668
+EV-10270,Corte,Baja,Rivadavia,Caballito,Corte reportado en zona de Caballito,2026-05-23 11:14:50.101656,Activo,-34.617616655007076,-58.437323684120216
+EV-10271,Corte,Baja,Paseo Colon,Palermo,Corte reportado en zona de Palermo,2026-05-23 11:19:50.101656,Activo,-34.58918287732449,-58.427185509702305
+EV-10272,Manifestacion,Alta,Belgrano,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-23 11:24:50.101656,Activo,-34.607306271068175,-58.36696221244913
+EV-10273,Accidente multiple,Media,Rivadavia,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-23 11:29:50.101656,Activo,-34.602495857511656,-58.38016022043717
+EV-10274,Choque,Alta,Paseo Colon,Palermo,Choque reportado en zona de Palermo,2026-05-23 11:34:50.101656,Activo,-34.590844919439895,-58.42898152017961
+EV-10275,Choque,Alta,Santa Fe,Caballito,Choque reportado en zona de Caballito,2026-05-23 11:39:50.101656,Activo,-34.613962621912016,-58.443337048171024
+EV-10276,Obra,Baja,Rivadavia,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-23 11:44:50.101656,Resuelto,-34.60741567186552,-58.36268670332494
+EV-10277,Accidente multiple,Media,Belgrano,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-23 11:49:50.101656,Activo,-34.58741409216695,-58.42784899279213
+EV-10278,Manifestacion,Baja,Libertador,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 11:54:50.101656,Resuelto,-34.55957173268311,-58.459552868706716
+EV-10279,Obra,Baja,Belgrano,Belgrano,Obra reportado en zona de Belgrano,2026-05-23 11:59:50.101656,Resuelto,-34.56566405993276,-58.45914140570966
+EV-10280,Semaforo fuera de servicio,Alta,Paseo Colon,Caballito,Semaforo fuera de servicio reportado en zona de Caballito,2026-05-23 12:04:50.101656,Resuelto,-34.614602045503325,-58.442413470712246
+EV-10281,Obra,Alta,Cabildo,Retiro,Obra reportado en zona de Retiro,2026-05-23 12:09:50.101656,Activo,-34.58901354073336,-58.37144563779546
+EV-10282,Corte,Alta,Belgrano,Belgrano,Corte reportado en zona de Belgrano,2026-05-23 12:14:50.101656,Activo,-34.562601848216225,-58.45933663729427
+EV-10283,Obra,Media,Santa Fe,Retiro,Obra reportado en zona de Retiro,2026-05-23 12:19:50.101656,Resuelto,-34.5937565480901,-58.3730325624901
+EV-10284,Choque,Alta,Corrientes,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 12:24:50.101656,Resuelto,-34.58723465424557,-58.39994399079662
+EV-10285,Obra,Media,Santa Fe,Recoleta,Obra reportado en zona de Recoleta,2026-05-23 12:29:50.101656,Resuelto,-34.58805632943462,-58.401935877415
+EV-10286,Choque,Baja,Belgrano,Microcentro,Choque reportado en zona de Microcentro,2026-05-23 12:34:50.101656,Resuelto,-34.60783163291981,-58.37924873359146
+EV-10287,Accidente multiple,Alta,Libertador,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 12:39:50.101656,Resuelto,-34.60714516166885,-58.36084931655185
+EV-10288,Manifestacion,Media,Rivadavia,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-23 12:44:50.101656,Resuelto,-34.61146401673001,-58.36131142271753
+EV-10289,Obra,Alta,Belgrano,Recoleta,Obra reportado en zona de Recoleta,2026-05-23 12:49:50.101656,Activo,-34.585777355927135,-58.39311664541402
+EV-10290,Corte,Alta,Belgrano,Palermo,Corte reportado en zona de Palermo,2026-05-23 12:54:50.101656,Resuelto,-34.587020134048174,-58.42616996390317
+EV-10291,Manifestacion,Media,Paseo Colon,Microcentro,Manifestacion reportado en zona de Microcentro,2026-05-23 12:59:50.101656,Resuelto,-34.598755687420976,-58.379603826109914
+EV-10292,Semaforo fuera de servicio,Baja,Belgrano,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-23 13:04:50.101656,Activo,-34.59364271224978,-58.37631278086749
+EV-10293,Manifestacion,Baja,Cabildo,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-23 13:09:50.101656,Resuelto,-34.615027704128465,-58.36643769885397
+EV-10294,Choque,Media,Belgrano,Belgrano,Choque reportado en zona de Belgrano,2026-05-23 13:14:50.101656,Resuelto,-34.56479082646727,-58.45219855585339
+EV-10295,Choque,Media,Belgrano,Microcentro,Choque reportado en zona de Microcentro,2026-05-23 13:19:50.101656,Activo,-34.599540142358144,-58.3799628880559
+EV-10296,Accidente multiple,Alta,Paseo Colon,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-23 13:24:50.101656,Activo,-34.56499725914763,-58.45473974039464
+EV-10297,Manifestacion,Baja,Santa Fe,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 13:29:50.101656,Resuelto,-34.56050605703022,-58.45523716138986
+EV-10298,Corte,Baja,Belgrano,Retiro,Corte reportado en zona de Retiro,2026-05-23 13:34:50.101656,Resuelto,-34.591086723588234,-58.378076280006965
+EV-10299,Manifestacion,Alta,Paseo Colon,Microcentro,Manifestacion reportado en zona de Microcentro,2026-05-23 13:39:50.101656,Resuelto,-34.60752039163131,-58.380212072540296
+EV-10300,Manifestacion,Baja,Corrientes,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 13:44:50.101656,Resuelto,-34.55997950899481,-58.45386984744207
+EV-10301,Manifestacion,Media,Rivadavia,Retiro,Manifestacion reportado en zona de Retiro,2026-05-23 13:49:50.101656,Activo,-34.595239632132554,-58.3743597769371
+EV-10302,Corte,Baja,Rivadavia,Belgrano,Corte reportado en zona de Belgrano,2026-05-23 13:54:50.101656,Resuelto,-34.5657831474407,-58.45340958635797
+EV-10303,Semaforo fuera de servicio,Baja,Paseo Colon,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-23 13:59:50.101656,Resuelto,-34.59592948419647,-58.37324366849214
+EV-10304,Corte,Alta,Paseo Colon,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-23 14:04:50.101656,Resuelto,-34.61373298358993,-58.36323741788243
+EV-10305,Accidente multiple,Alta,Paseo Colon,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-23 14:09:50.101656,Resuelto,-34.6080307836516,-58.38338270726847
+EV-10306,Choque,Media,9 de Julio,Puerto Madero,Choque reportado en zona de Puerto Madero,2026-05-23 14:14:50.101656,Resuelto,-34.608665241185186,-58.36208515085449
+EV-10307,Choque,Media,Cabildo,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 14:19:50.101656,Activo,-34.59160683284077,-58.39300849471137
+EV-10308,Accidente multiple,Media,Belgrano,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-23 14:24:50.101656,Resuelto,-34.62022970955102,-58.44410961143961
+EV-10309,Manifestacion,Baja,Cabildo,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-23 14:29:50.101656,Activo,-34.58828661854318,-58.3927509648122
+EV-10310,Choque,Alta,Santa Fe,Belgrano,Choque reportado en zona de Belgrano,2026-05-23 14:34:50.101656,Resuelto,-34.562628687168115,-58.45660638396326
+EV-10311,Manifestacion,Baja,Rivadavia,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-23 14:39:50.101656,Activo,-34.61630232895326,-58.36203474517236
+EV-10312,Obra,Alta,Belgrano,Retiro,Obra reportado en zona de Retiro,2026-05-23 14:44:50.101656,Resuelto,-34.594160938181055,-58.3725796135361
+EV-10313,Semaforo fuera de servicio,Alta,Paseo Colon,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-23 14:49:50.101656,Resuelto,-34.5857927094126,-58.393696024133526
+EV-10314,Manifestacion,Alta,Cabildo,Retiro,Manifestacion reportado en zona de Retiro,2026-05-23 14:54:50.101656,Resuelto,-34.58739892970281,-58.37926749074919
+EV-10315,Manifestacion,Media,Paseo Colon,Caballito,Manifestacion reportado en zona de Caballito,2026-05-23 14:59:50.101656,Activo,-34.618219305309715,-58.442377074796056
+EV-10316,Semaforo fuera de servicio,Media,Libertador,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-23 15:04:50.101656,Activo,-34.5580386930283,-58.460747947159604
+EV-10317,Manifestacion,Media,Rivadavia,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-23 15:09:50.101656,Resuelto,-34.61239813212415,-58.360596512055345
+EV-10318,Semaforo fuera de servicio,Media,Cabildo,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 15:14:50.101656,Resuelto,-34.582590328389635,-58.433913246577845
+EV-10319,Semaforo fuera de servicio,Baja,Corrientes,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-23 15:19:50.101656,Activo,-34.609288281193706,-58.35862114227749
+EV-10320,Corte,Baja,Paseo Colon,Palermo,Corte reportado en zona de Palermo,2026-05-23 15:24:50.101656,Resuelto,-34.587433926611055,-58.432670060949235
+EV-10321,Manifestacion,Media,9 de Julio,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 15:29:50.101656,Activo,-34.56559759808325,-58.45189555313557
+EV-10322,Choque,Media,Libertador,Caballito,Choque reportado en zona de Caballito,2026-05-23 15:34:50.101656,Resuelto,-34.62169821494574,-58.442706099340555
+EV-10323,Corte,Baja,9 de Julio,Belgrano,Corte reportado en zona de Belgrano,2026-05-23 15:39:50.101656,Activo,-34.559316869340584,-58.45965535319498
+EV-10324,Corte,Alta,Santa Fe,Caballito,Corte reportado en zona de Caballito,2026-05-23 15:44:50.101656,Activo,-34.61810784268358,-58.43720007067584
+EV-10325,Obra,Baja,Cabildo,Recoleta,Obra reportado en zona de Recoleta,2026-05-23 15:49:50.101656,Resuelto,-34.59233321544065,-58.40021703318037
+EV-10326,Corte,Baja,Libertador,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-23 15:54:50.101656,Activo,-34.61077067532958,-58.36754713329803
+EV-10327,Accidente multiple,Alta,Belgrano,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-23 15:59:50.101656,Activo,-34.60526490483348,-58.38276233523508
+EV-10328,Manifestacion,Baja,Santa Fe,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 16:04:50.101656,Resuelto,-34.56265699093706,-58.45257900174285
+EV-10329,Accidente multiple,Media,Santa Fe,Recoleta,Accidente multiple reportado en zona de Recoleta,2026-05-23 16:09:50.101656,Resuelto,-34.584195213912174,-58.40202882313375
+EV-10330,Choque,Alta,Paseo Colon,Caballito,Choque reportado en zona de Caballito,2026-05-23 16:14:50.101656,Resuelto,-34.62285390111142,-58.43917536502449
+EV-10331,Semaforo fuera de servicio,Media,9 de Julio,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-23 16:19:50.101656,Activo,-34.59003606197306,-58.392763331164275
+EV-10332,Accidente multiple,Alta,Cabildo,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-23 16:24:50.101656,Resuelto,-34.60487598049956,-58.37966833223366
+EV-10333,Choque,Alta,Santa Fe,Palermo,Choque reportado en zona de Palermo,2026-05-23 16:29:50.101656,Activo,-34.58292429508979,-58.42988803332
+EV-10334,Choque,Alta,Rivadavia,Belgrano,Choque reportado en zona de Belgrano,2026-05-23 16:34:50.101656,Activo,-34.56568722032995,-58.45587815280775
+EV-10335,Corte,Media,Paseo Colon,Palermo,Corte reportado en zona de Palermo,2026-05-23 16:39:50.101656,Resuelto,-34.58601740682671,-58.43098064961511
+EV-10336,Choque,Baja,Santa Fe,Retiro,Choque reportado en zona de Retiro,2026-05-23 16:44:50.101656,Resuelto,-34.5897360104113,-58.37536084756439
+EV-10337,Obra,Media,Santa Fe,Retiro,Obra reportado en zona de Retiro,2026-05-23 16:49:50.101656,Activo,-34.59649604293888,-58.37715789506054
+EV-10338,Choque,Media,Libertador,Retiro,Choque reportado en zona de Retiro,2026-05-23 16:54:50.101656,Activo,-34.58932330310003,-58.37181787380392
+EV-10339,Obra,Media,Paseo Colon,Recoleta,Obra reportado en zona de Recoleta,2026-05-23 16:59:50.101656,Resuelto,-34.58467506391112,-58.39719753515175
+EV-10340,Choque,Media,Belgrano,Microcentro,Choque reportado en zona de Microcentro,2026-05-23 17:04:50.101656,Activo,-34.59961462834167,-58.38331589320318
+EV-10341,Choque,Alta,Belgrano,Belgrano,Choque reportado en zona de Belgrano,2026-05-23 17:09:50.101656,Resuelto,-34.566980342690215,-58.45353098477307
+EV-10342,Accidente multiple,Baja,Paseo Colon,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-23 17:14:50.101656,Activo,-34.5586093303027,-58.45527004655156
+EV-10343,Accidente multiple,Alta,Rivadavia,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 17:19:50.101656,Activo,-34.614382611877,-58.36731016765461
+EV-10344,Choque,Baja,Paseo Colon,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 17:24:50.101656,Activo,-34.58483848090841,-58.39587599355406
+EV-10345,Obra,Baja,Cabildo,Belgrano,Obra reportado en zona de Belgrano,2026-05-23 17:29:50.101656,Activo,-34.56538847263788,-58.46109135762575
+EV-10346,Choque,Baja,Belgrano,Belgrano,Choque reportado en zona de Belgrano,2026-05-23 17:34:50.101656,Resuelto,-34.55845377014548,-58.45339454636767
+EV-10347,Semaforo fuera de servicio,Media,Santa Fe,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-23 17:39:50.101656,Resuelto,-34.58755346386662,-58.37841651219536
+EV-10348,Semaforo fuera de servicio,Baja,Rivadavia,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 17:44:50.101656,Activo,-34.587544732103375,-58.42929863765059
+EV-10349,Manifestacion,Alta,Paseo Colon,Caballito,Manifestacion reportado en zona de Caballito,2026-05-23 17:49:50.101656,Resuelto,-34.615270185854435,-58.44718709960325
+EV-10350,Manifestacion,Baja,Rivadavia,Caballito,Manifestacion reportado en zona de Caballito,2026-05-23 17:54:50.101656,Resuelto,-34.61969811247943,-58.43888862198887
+EV-10351,Accidente multiple,Alta,9 de Julio,Retiro,Accidente multiple reportado en zona de Retiro,2026-05-23 17:59:50.101656,Resuelto,-34.59240076184177,-58.37239613508529
+EV-10352,Obra,Alta,9 de Julio,Belgrano,Obra reportado en zona de Belgrano,2026-05-23 18:04:50.101656,Resuelto,-34.56547966815129,-58.451564586555456
+EV-10353,Accidente multiple,Media,9 de Julio,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-23 18:09:50.101656,Resuelto,-34.617699221996965,-58.44592473316499
+EV-10354,Choque,Alta,Libertador,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 18:14:50.101656,Resuelto,-34.593331012304695,-58.401401058884616
+EV-10355,Semaforo fuera de servicio,Baja,Corrientes,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-23 18:19:50.101656,Activo,-34.58899193823926,-58.40124560565314
+EV-10356,Choque,Alta,Cabildo,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 18:24:50.101656,Resuelto,-34.58621560871185,-58.39532744112465
+EV-10357,Corte,Alta,9 de Julio,Microcentro,Corte reportado en zona de Microcentro,2026-05-23 18:29:50.101656,Activo,-34.59883922293273,-58.37763527203467
+EV-10358,Obra,Media,Rivadavia,Retiro,Obra reportado en zona de Retiro,2026-05-23 18:34:50.101656,Resuelto,-34.59478352353229,-58.37927463985546
+EV-10359,Corte,Alta,Libertador,Belgrano,Corte reportado en zona de Belgrano,2026-05-23 18:39:50.101656,Activo,-34.560038018388056,-58.46064521363626
+EV-10360,Manifestacion,Baja,Paseo Colon,Caballito,Manifestacion reportado en zona de Caballito,2026-05-23 18:44:50.101656,Activo,-34.615685807824235,-58.444109555869616
+EV-10361,Manifestacion,Alta,Corrientes,Caballito,Manifestacion reportado en zona de Caballito,2026-05-23 18:49:50.101656,Resuelto,-34.62130042786248,-58.44049896231851
+EV-10362,Obra,Alta,Santa Fe,Palermo,Obra reportado en zona de Palermo,2026-05-23 18:54:50.101656,Resuelto,-34.586369733576355,-58.428517968222195
+EV-10363,Choque,Alta,Corrientes,Caballito,Choque reportado en zona de Caballito,2026-05-23 18:59:50.101656,Activo,-34.616289040679895,-58.446859886779926
+EV-10364,Accidente multiple,Alta,Rivadavia,Puerto Madero,Accidente multiple reportado en zona de Puerto Madero,2026-05-23 19:04:50.101656,Activo,-34.615007241742454,-58.360110918367305
+EV-10365,Semaforo fuera de servicio,Media,9 de Julio,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-23 19:09:50.101656,Activo,-34.590925881847575,-58.39931466247971
+EV-10366,Corte,Baja,Rivadavia,Caballito,Corte reportado en zona de Caballito,2026-05-23 19:14:50.101656,Activo,-34.620707819406014,-58.4393960544934
+EV-10367,Semaforo fuera de servicio,Baja,Santa Fe,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-23 19:19:50.101656,Resuelto,-34.560514084733974,-58.460368542667354
+EV-10368,Semaforo fuera de servicio,Baja,Corrientes,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-23 19:24:50.101656,Resuelto,-34.55973265566097,-58.45511185806388
+EV-10369,Semaforo fuera de servicio,Alta,Santa Fe,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 19:29:50.101656,Resuelto,-34.58912961782363,-58.429379000578734
+EV-10370,Semaforo fuera de servicio,Baja,Rivadavia,Caballito,Semaforo fuera de servicio reportado en zona de Caballito,2026-05-23 19:34:50.101656,Resuelto,-34.618436578949954,-58.44179536689281
+EV-10371,Semaforo fuera de servicio,Media,Libertador,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-23 19:39:50.101656,Resuelto,-34.58397197315882,-58.431388395846916
+EV-10372,Manifestacion,Baja,Libertador,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 19:44:50.101656,Activo,-34.56523101163878,-58.459254658956645
+EV-10373,Manifestacion,Media,Libertador,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 19:49:50.101656,Resuelto,-34.558585609770255,-58.452240055099985
+EV-10374,Choque,Media,9 de Julio,Retiro,Choque reportado en zona de Retiro,2026-05-23 19:54:50.101656,Resuelto,-34.59433796356999,-58.37751297998354
+EV-10375,Manifestacion,Alta,Santa Fe,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 19:59:50.101656,Resuelto,-34.55801799022694,-58.46129253458065
+EV-10376,Corte,Media,Santa Fe,Retiro,Corte reportado en zona de Retiro,2026-05-23 20:04:50.101656,Activo,-34.59382753176989,-58.37410592054057
+EV-10377,Obra,Alta,Corrientes,Belgrano,Obra reportado en zona de Belgrano,2026-05-23 20:09:50.101656,Resuelto,-34.56463161521536,-58.4523445881347
+EV-10378,Semaforo fuera de servicio,Baja,9 de Julio,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-23 20:14:50.101656,Activo,-34.61372557278428,-58.360972809277314
+EV-10379,Corte,Baja,Libertador,Microcentro,Corte reportado en zona de Microcentro,2026-05-23 20:19:50.101656,Resuelto,-34.60520010822898,-58.377581207121366
+EV-10380,Obra,Alta,Rivadavia,Caballito,Obra reportado en zona de Caballito,2026-05-23 20:24:50.101656,Resuelto,-34.61667153961871,-58.4439325939038
+EV-10381,Accidente multiple,Baja,Paseo Colon,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-23 20:29:50.101656,Activo,-34.614582578845514,-58.44428715061518
+EV-10382,Choque,Media,Libertador,Retiro,Choque reportado en zona de Retiro,2026-05-23 20:34:50.101656,Resuelto,-34.5952115091846,-58.37049841412451
+EV-10383,Manifestacion,Baja,Paseo Colon,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-23 20:39:50.101656,Activo,-34.612013997819304,-58.36654394529014
+EV-10384,Accidente multiple,Media,9 de Julio,Retiro,Accidente multiple reportado en zona de Retiro,2026-05-23 20:44:50.101656,Activo,-34.59574143788893,-58.37650238738715
+EV-10385,Manifestacion,Baja,Santa Fe,Palermo,Manifestacion reportado en zona de Palermo,2026-05-23 20:49:50.101656,Resuelto,-34.585215291856805,-58.42595962740662
+EV-10386,Accidente multiple,Baja,Santa Fe,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-23 20:54:50.101656,Activo,-34.62249931513618,-58.44615863139114
+EV-10387,Manifestacion,Baja,9 de Julio,Palermo,Manifestacion reportado en zona de Palermo,2026-05-23 20:59:50.101656,Activo,-34.5866506671606,-58.43440388375679
+EV-10388,Accidente multiple,Media,Santa Fe,Retiro,Accidente multiple reportado en zona de Retiro,2026-05-23 21:04:50.101656,Resuelto,-34.58857820429691,-58.373490633669874
+EV-10389,Corte,Media,Paseo Colon,Caballito,Corte reportado en zona de Caballito,2026-05-23 21:09:50.101656,Resuelto,-34.61809222313671,-58.444974334753724
+EV-10390,Obra,Baja,Corrientes,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-23 21:14:50.101656,Resuelto,-34.616123781402436,-58.36494135320167
+EV-10391,Corte,Alta,Libertador,Caballito,Corte reportado en zona de Caballito,2026-05-23 21:19:50.101656,Activo,-34.621210165092236,-58.43894516627409
+EV-10392,Obra,Media,Paseo Colon,Belgrano,Obra reportado en zona de Belgrano,2026-05-23 21:24:50.101656,Resuelto,-34.56192399842064,-58.45395073941649
+EV-10393,Corte,Alta,Paseo Colon,Belgrano,Corte reportado en zona de Belgrano,2026-05-23 21:29:50.101656,Activo,-34.56280168145774,-58.45873799545953
+EV-10394,Obra,Alta,Santa Fe,Belgrano,Obra reportado en zona de Belgrano,2026-05-23 21:34:50.101656,Activo,-34.55810753383317,-58.451795768619405
+EV-10395,Corte,Alta,Paseo Colon,Palermo,Corte reportado en zona de Palermo,2026-05-23 21:39:50.101656,Resuelto,-34.58707075199053,-58.43460598329955
+EV-10396,Semaforo fuera de servicio,Baja,Corrientes,Caballito,Semaforo fuera de servicio reportado en zona de Caballito,2026-05-23 21:44:50.101656,Activo,-34.623199501278215,-58.439099747008314
+EV-10397,Obra,Baja,Paseo Colon,Caballito,Obra reportado en zona de Caballito,2026-05-23 21:49:50.101656,Activo,-34.61789268057367,-58.44461735142412
+EV-10398,Accidente multiple,Media,Rivadavia,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-23 21:54:50.101656,Activo,-34.55882327775952,-58.45813829967168
+EV-10399,Manifestacion,Baja,Libertador,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-23 21:59:50.101656,Activo,-34.584006982526176,-58.39665913251551
+EV-10400,Obra,Media,Corrientes,Palermo,Obra reportado en zona de Palermo,2026-05-23 22:04:50.101656,Activo,-34.586327046903634,-58.425080344272644
+EV-10401,Manifestacion,Alta,Belgrano,Retiro,Manifestacion reportado en zona de Retiro,2026-05-23 22:09:50.101656,Resuelto,-34.59617242044193,-58.37801951777044
+EV-10402,Obra,Alta,Paseo Colon,Microcentro,Obra reportado en zona de Microcentro,2026-05-23 22:14:50.101656,Activo,-34.605752746064745,-58.37730368695178
+EV-10403,Choque,Media,Santa Fe,Belgrano,Choque reportado en zona de Belgrano,2026-05-23 22:19:50.101656,Resuelto,-34.55777093386932,-58.45449631002923
+EV-10404,Corte,Alta,Corrientes,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-23 22:24:50.101656,Resuelto,-34.614579268660115,-58.36202926956727
+EV-10405,Obra,Baja,Rivadavia,Retiro,Obra reportado en zona de Retiro,2026-05-23 22:29:50.101656,Resuelto,-34.58828638204472,-58.372375710807255
+EV-10406,Choque,Alta,Corrientes,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 22:34:50.101656,Activo,-34.586903800555234,-58.40073056733056
+EV-10407,Semaforo fuera de servicio,Alta,Cabildo,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-23 22:39:50.101656,Activo,-34.592326186322396,-58.40057896593189
+EV-10408,Manifestacion,Alta,Cabildo,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-23 22:44:50.101656,Resuelto,-34.59226926321301,-58.40060090888305
+EV-10409,Manifestacion,Media,Libertador,Retiro,Manifestacion reportado en zona de Retiro,2026-05-23 22:49:50.101656,Activo,-34.59075630271807,-58.37809255251425
+EV-10410,Manifestacion,Baja,Santa Fe,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-23 22:54:50.101656,Resuelto,-34.56029616896818,-58.4609059839204
+EV-10411,Semaforo fuera de servicio,Baja,Belgrano,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-23 22:59:50.101656,Activo,-34.59203043733768,-58.394182500416434
+EV-10412,Obra,Media,Santa Fe,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-23 23:04:50.101656,Activo,-34.611644383481284,-58.36111229971461
+EV-10413,Semaforo fuera de servicio,Alta,Santa Fe,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-23 23:09:50.101656,Resuelto,-34.58872253078749,-58.371559533232684
+EV-10414,Semaforo fuera de servicio,Baja,Libertador,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-23 23:14:50.101656,Activo,-34.60824450503908,-58.36206063275146
+EV-10415,Accidente multiple,Alta,9 de Julio,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-23 23:19:50.101656,Activo,-34.5574267265788,-58.46093545541751
+EV-10416,Choque,Alta,9 de Julio,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 23:24:50.101656,Activo,-34.588516651746524,-58.40197120809992
+EV-10417,Accidente multiple,Alta,Belgrano,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-23 23:29:50.101656,Activo,-34.6210800461346,-58.44224377518244
+EV-10418,Accidente multiple,Alta,Paseo Colon,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-23 23:34:50.101656,Resuelto,-34.58474370535616,-58.43120688523444
+EV-10419,Semaforo fuera de servicio,Baja,Paseo Colon,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-23 23:39:50.101656,Activo,-34.60866107519086,-58.3643265845894
+EV-10420,Obra,Media,Libertador,Retiro,Obra reportado en zona de Retiro,2026-05-23 23:44:50.101656,Activo,-34.58771276242086,-58.37365688719678
+EV-10421,Choque,Alta,Belgrano,Microcentro,Choque reportado en zona de Microcentro,2026-05-23 23:49:50.101656,Activo,-34.60054003606056,-58.37687907345777
+EV-10422,Choque,Alta,Paseo Colon,Recoleta,Choque reportado en zona de Recoleta,2026-05-23 23:54:50.101656,Activo,-34.58880552154348,-58.39284049236846
+EV-10423,Corte,Alta,Rivadavia,Microcentro,Corte reportado en zona de Microcentro,2026-05-23 23:59:50.101656,Resuelto,-34.60592801015578,-58.377708851252116
+EV-10424,Corte,Alta,Rivadavia,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-24 00:04:50.101656,Activo,-34.61249190879401,-58.367295725851854
+EV-10425,Semaforo fuera de servicio,Baja,Rivadavia,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-24 00:09:50.101656,Activo,-34.562282538427716,-58.4519142054738
+EV-10426,Obra,Baja,Corrientes,Recoleta,Obra reportado en zona de Recoleta,2026-05-24 00:14:50.101656,Resuelto,-34.58681901778643,-58.394493752798496
+EV-10427,Choque,Alta,Santa Fe,Microcentro,Choque reportado en zona de Microcentro,2026-05-24 00:19:50.101656,Resuelto,-34.604073412490024,-58.38571883846874
+EV-10428,Choque,Alta,Belgrano,Puerto Madero,Choque reportado en zona de Puerto Madero,2026-05-24 00:24:50.101656,Activo,-34.61568074480403,-58.36765223248056
+EV-10429,Semaforo fuera de servicio,Alta,Rivadavia,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-24 00:29:50.101656,Resuelto,-34.58415557118963,-58.4280716470251
+EV-10430,Accidente multiple,Baja,Belgrano,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-24 00:34:50.101656,Resuelto,-34.604126379344024,-58.3830902112474
+EV-10431,Manifestacion,Media,9 de Julio,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-24 00:39:50.101656,Activo,-34.59322958819154,-58.39361436520639
+EV-10432,Accidente multiple,Alta,Cabildo,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-24 00:44:50.101656,Activo,-34.58913879051301,-58.42798673613747
+EV-10433,Corte,Alta,Libertador,Microcentro,Corte reportado en zona de Microcentro,2026-05-24 00:49:50.101656,Resuelto,-34.60469059146114,-58.37972255558349
+EV-10434,Accidente multiple,Alta,9 de Julio,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-24 00:54:50.101656,Resuelto,-34.616234924854766,-58.440745422356954
+EV-10435,Corte,Media,Santa Fe,Belgrano,Corte reportado en zona de Belgrano,2026-05-24 00:59:50.101656,Activo,-34.56049404603682,-58.4528475677486
+EV-10436,Semaforo fuera de servicio,Media,Libertador,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-24 01:04:50.101656,Activo,-34.6031163242208,-58.3826949026747
+EV-10437,Accidente multiple,Baja,Santa Fe,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-24 01:09:50.101656,Activo,-34.619435607532,-58.44651613314949
+EV-10438,Corte,Alta,Corrientes,Belgrano,Corte reportado en zona de Belgrano,2026-05-24 01:14:50.101656,Activo,-34.56546552255809,-58.45159804587533
+EV-10439,Obra,Baja,Belgrano,Caballito,Obra reportado en zona de Caballito,2026-05-24 01:19:50.101656,Activo,-34.61626924652717,-58.44071466307892
+EV-10440,Obra,Media,Cabildo,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-24 01:24:50.101656,Activo,-34.60941915584438,-58.36697141838052
+EV-10441,Accidente multiple,Alta,Rivadavia,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-24 01:29:50.101656,Activo,-34.585419643772234,-58.433473029623194
+EV-10442,Semaforo fuera de servicio,Baja,Libertador,Palermo,Semaforo fuera de servicio reportado en zona de Palermo,2026-05-24 01:34:50.101656,Resuelto,-34.58545204728101,-58.43300682228642
+EV-10443,Choque,Media,Santa Fe,Palermo,Choque reportado en zona de Palermo,2026-05-24 01:39:50.101656,Activo,-34.587318721339116,-58.42971986010399
+EV-10444,Obra,Baja,Santa Fe,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-24 01:44:50.101656,Activo,-34.61454124869263,-58.36190343812964
+EV-10445,Obra,Alta,Belgrano,Recoleta,Obra reportado en zona de Recoleta,2026-05-24 01:49:50.101656,Activo,-34.58647290286949,-58.39851527344493
+EV-10446,Accidente multiple,Alta,Libertador,Retiro,Accidente multiple reportado en zona de Retiro,2026-05-24 01:54:50.101656,Resuelto,-34.59288391221538,-58.37429497612728
+EV-10447,Semaforo fuera de servicio,Alta,Libertador,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-24 01:59:50.101656,Activo,-34.59071988990066,-58.398364020840106
+EV-10448,Corte,Baja,Rivadavia,Recoleta,Corte reportado en zona de Recoleta,2026-05-24 02:04:50.101656,Activo,-34.592336082751316,-58.39727926176938
+EV-10449,Corte,Alta,Rivadavia,Microcentro,Corte reportado en zona de Microcentro,2026-05-24 02:09:50.101656,Resuelto,-34.60541402967796,-58.381988609874135
+EV-10450,Obra,Media,9 de Julio,Palermo,Obra reportado en zona de Palermo,2026-05-24 02:14:50.101656,Resuelto,-34.58985654602932,-58.43357054472207
+EV-10451,Manifestacion,Baja,Belgrano,Recoleta,Manifestacion reportado en zona de Recoleta,2026-05-24 02:19:50.101656,Resuelto,-34.59067797598413,-58.40226274742317
+EV-10452,Choque,Media,Rivadavia,Recoleta,Choque reportado en zona de Recoleta,2026-05-24 02:24:50.101656,Resuelto,-34.58961024001974,-58.39240510276062
+EV-10453,Semaforo fuera de servicio,Alta,Libertador,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-24 02:29:50.101656,Activo,-34.58669857419808,-58.401840826224216
+EV-10454,Obra,Baja,Cabildo,Caballito,Obra reportado en zona de Caballito,2026-05-24 02:34:50.101656,Resuelto,-34.61707098937429,-58.44561022049482
+EV-10455,Semaforo fuera de servicio,Media,Santa Fe,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-24 02:39:50.101656,Activo,-34.59207150851343,-58.39671620125799
+EV-10456,Semaforo fuera de servicio,Baja,9 de Julio,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-24 02:44:50.101656,Resuelto,-34.5657163357802,-58.45601409417865
+EV-10457,Corte,Baja,Santa Fe,Palermo,Corte reportado en zona de Palermo,2026-05-24 02:49:50.101656,Resuelto,-34.58442364904506,-58.432147831276964
+EV-10458,Corte,Baja,Belgrano,Microcentro,Corte reportado en zona de Microcentro,2026-05-24 02:54:50.101656,Resuelto,-34.60418735209555,-58.38145534908851
+EV-10459,Semaforo fuera de servicio,Media,Santa Fe,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-24 02:59:50.101656,Resuelto,-34.60791051304878,-58.37963159600398
+EV-10460,Semaforo fuera de servicio,Baja,Paseo Colon,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-24 03:04:50.101656,Activo,-34.557927613400935,-58.46058271892095
+EV-10461,Accidente multiple,Alta,Belgrano,Caballito,Accidente multiple reportado en zona de Caballito,2026-05-24 03:09:50.101656,Resuelto,-34.62106379144361,-58.4418656057401
+EV-10462,Manifestacion,Alta,Paseo Colon,Puerto Madero,Manifestacion reportado en zona de Puerto Madero,2026-05-24 03:14:50.101656,Resuelto,-34.607400633287305,-58.36256936486586
+EV-10463,Choque,Media,Rivadavia,Belgrano,Choque reportado en zona de Belgrano,2026-05-24 03:19:50.101656,Resuelto,-34.55779546318235,-58.45775422761257
+EV-10464,Corte,Baja,9 de Julio,Retiro,Corte reportado en zona de Retiro,2026-05-24 03:24:50.101656,Activo,-34.593229258554494,-58.37825390520292
+EV-10465,Obra,Alta,Santa Fe,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-24 03:29:50.101656,Activo,-34.607357707901684,-58.36593329162025
+EV-10466,Obra,Alta,Belgrano,Microcentro,Obra reportado en zona de Microcentro,2026-05-24 03:34:50.101656,Resuelto,-34.60077772384207,-58.381611221176364
+EV-10467,Choque,Baja,Cabildo,Belgrano,Choque reportado en zona de Belgrano,2026-05-24 03:39:50.101656,Resuelto,-34.56178857552346,-58.45415603691227
+EV-10468,Corte,Media,Rivadavia,Retiro,Corte reportado en zona de Retiro,2026-05-24 03:44:50.101656,Resuelto,-34.59436067388262,-58.3699251150647
+EV-10469,Choque,Media,Santa Fe,Caballito,Choque reportado en zona de Caballito,2026-05-24 03:49:50.101656,Resuelto,-34.619172504284684,-58.4439936672925
+EV-10470,Semaforo fuera de servicio,Baja,Rivadavia,Puerto Madero,Semaforo fuera de servicio reportado en zona de Puerto Madero,2026-05-24 03:54:50.101656,Resuelto,-34.60778974792629,-58.35891034447645
+EV-10471,Manifestacion,Media,Libertador,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-24 03:59:50.101656,Activo,-34.561696042404336,-58.452238320920856
+EV-10472,Accidente multiple,Media,Belgrano,Palermo,Accidente multiple reportado en zona de Palermo,2026-05-24 04:04:50.101656,Activo,-34.58934286742265,-58.43124299130311
+EV-10473,Manifestacion,Alta,Corrientes,Palermo,Manifestacion reportado en zona de Palermo,2026-05-24 04:09:50.101656,Resuelto,-34.58889529979511,-58.42801665197878
+EV-10474,Obra,Alta,Cabildo,Microcentro,Obra reportado en zona de Microcentro,2026-05-24 04:14:50.101656,Resuelto,-34.60462664037135,-58.37963951668853
+EV-10475,Choque,Media,Rivadavia,Recoleta,Choque reportado en zona de Recoleta,2026-05-24 04:19:50.101656,Resuelto,-34.59333813940957,-58.39353080418654
+EV-10476,Corte,Baja,Rivadavia,Microcentro,Corte reportado en zona de Microcentro,2026-05-24 04:24:50.101656,Resuelto,-34.606071447520854,-58.377167246507014
+EV-10477,Obra,Media,Rivadavia,Puerto Madero,Obra reportado en zona de Puerto Madero,2026-05-24 04:29:50.101656,Resuelto,-34.60978115048811,-58.36460383817865
+EV-10478,Semaforo fuera de servicio,Baja,Cabildo,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-24 04:34:50.101656,Resuelto,-34.60701831082938,-58.385683322255204
+EV-10479,Accidente multiple,Media,Libertador,Microcentro,Accidente multiple reportado en zona de Microcentro,2026-05-24 04:39:50.101656,Resuelto,-34.59927126425418,-58.384584348689366
+EV-10480,Obra,Baja,Paseo Colon,Microcentro,Obra reportado en zona de Microcentro,2026-05-24 04:44:50.101656,Resuelto,-34.60514993493499,-58.38097602646631
+EV-10481,Choque,Media,Belgrano,Recoleta,Choque reportado en zona de Recoleta,2026-05-24 04:49:50.101656,Activo,-34.590508772815625,-58.39643068525837
+EV-10482,Accidente multiple,Media,Paseo Colon,Belgrano,Accidente multiple reportado en zona de Belgrano,2026-05-24 04:54:50.101656,Resuelto,-34.562233973580135,-58.457135753762934
+EV-10483,Corte,Baja,Belgrano,Belgrano,Corte reportado en zona de Belgrano,2026-05-24 04:59:50.101656,Activo,-34.557821946506984,-58.4552734557864
+EV-10484,Corte,Alta,Paseo Colon,Puerto Madero,Corte reportado en zona de Puerto Madero,2026-05-24 05:04:50.101656,Resuelto,-34.61181001733497,-58.35873541598557
+EV-10485,Semaforo fuera de servicio,Alta,Rivadavia,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-24 05:09:50.101656,Activo,-34.56487624532166,-58.458799191687774
+EV-10486,Obra,Media,Cabildo,Caballito,Obra reportado en zona de Caballito,2026-05-24 05:14:50.101656,Activo,-34.616313371324495,-58.43879218960619
+EV-10487,Corte,Alta,Santa Fe,Microcentro,Corte reportado en zona de Microcentro,2026-05-24 05:19:50.101656,Resuelto,-34.59980006872342,-58.377062543429304
+EV-10488,Corte,Alta,Cabildo,Belgrano,Corte reportado en zona de Belgrano,2026-05-24 05:24:50.101656,Activo,-34.56114302155465,-58.45260766916323
+EV-10489,Semaforo fuera de servicio,Alta,9 de Julio,Belgrano,Semaforo fuera de servicio reportado en zona de Belgrano,2026-05-24 05:29:50.101656,Resuelto,-34.56309839410863,-58.45739769164496
+EV-10490,Obra,Alta,Cabildo,Microcentro,Obra reportado en zona de Microcentro,2026-05-24 05:34:50.101656,Resuelto,-34.600572700423896,-58.376837134135044
+EV-10491,Corte,Alta,Paseo Colon,Caballito,Corte reportado en zona de Caballito,2026-05-24 05:39:50.101656,Resuelto,-34.61760899933615,-58.445951873666885
+EV-10492,Semaforo fuera de servicio,Alta,Rivadavia,Retiro,Semaforo fuera de servicio reportado en zona de Retiro,2026-05-24 05:44:50.101656,Activo,-34.58863496843704,-58.37837445486121
+EV-10493,Manifestacion,Alta,Santa Fe,Caballito,Manifestacion reportado en zona de Caballito,2026-05-24 05:49:50.101656,Activo,-34.62207716236664,-58.44688984217886
+EV-10494,Semaforo fuera de servicio,Alta,Paseo Colon,Microcentro,Semaforo fuera de servicio reportado en zona de Microcentro,2026-05-24 05:54:50.101656,Activo,-34.606579077195484,-58.37814786829879
+EV-10495,Choque,Alta,Paseo Colon,Recoleta,Choque reportado en zona de Recoleta,2026-05-24 05:59:50.101656,Activo,-34.59379135973468,-58.39657407753773
+EV-10496,Manifestacion,Alta,Rivadavia,Palermo,Manifestacion reportado en zona de Palermo,2026-05-24 06:04:50.101656,Activo,-34.58566009727634,-58.429301910269814
+EV-10497,Manifestacion,Alta,Libertador,Belgrano,Manifestacion reportado en zona de Belgrano,2026-05-24 06:09:50.101656,Resuelto,-34.558309951342174,-58.45584945331551
+EV-10498,Semaforo fuera de servicio,Baja,Cabildo,Recoleta,Semaforo fuera de servicio reportado en zona de Recoleta,2026-05-24 06:14:50.101656,Activo,-34.59222432397488,-58.393163992880766
+EV-10499,Obra,Baja,Belgrano,Palermo,Obra reportado en zona de Palermo,2026-05-24 06:19:50.101656,Resuelto,-34.59147178944567,-58.43383971110323
