@@ -1,0 +1,268 @@
+
+
+===========================================================================
+
+La aplicación debe desarrollarse como una plataforma web interactiva utilizando:
+
+* Python
+* Streamlit
+* Pandas
+* Requests
+* Folium
+* streamlit-folium
+
+La interfaz debe utilizar:
+
+* layout="wide"
+* sidebar interactivo
+* dashboard moderno y profesional
+
+El código debe estar modularizado con la siguiente arquitectura:
+
+MovilidadSeguraBA/
+│
+├── app.py
+│
+├── api/
+│   ├── auth.py
+│   ├── transito.py
+│   ├── eventos.py
+│
+├── services/
+│   ├── mapa.py
+│   ├── analisis.py
+│
+├── data/
+│
+├── .env
+
+===========================================================================
+
+AUTENTICACIÓN API (MUY IMPORTANTE)
+
+===========================================================================
+
+Las APIs del GCBA utilizan autenticación OAuth2 mediante Client ID y Client Secret.
+
+El sistema NO debe consumir directamente los endpoints de datos utilizando únicamente client_id y client_secret en la URL.
+
+Primero debe realizarse un proceso de autenticación para obtener un access_token temporal.
+
+Flujo correcto:
+
+1. Solicitar token al endpoint de autenticación:
+   POST [https://api-transporte.buenosaires.gob.ar/v1/auth/login](https://api-transporte.buenosaires.gob.ar/v1/auth/login)
+
+Enviando:
+
+* client_id
+* client_secret
+
+2. La API devolverá:
+
+* access_token
+
+3. Ese token debe utilizarse en los headers de todas las consultas posteriores:
+
+Authorization: Bearer TOKEN
+
+===========================================================================
+
+REQUISITOS DE SEGURIDAD
+
+===========================================================================
+
+* Nunca hardcodear credenciales en el código.
+
+* Utilizar archivo .env para almacenar:
+
+  * CLIENT_ID
+  * CLIENT_SECRET
+
+* Utilizar python-dotenv para cargar variables de entorno.
+
+* El token puede vencer luego de un período de tiempo, por lo que la aplicación debe poder regenerarlo automáticamente.
+
+* Utilizar manejo de errores en autenticación y requests.
+
+===========================================================================
+
+EJEMPLO DE AUTENTICACIÓN
+
+===========================================================================
+
+La aplicación debe incluir una función similar a:
+
+* obtener_token()
+* autenticarse_api()
+
+La lógica debe:
+
+* enviar POST al endpoint de login,
+* obtener el access_token,
+* reutilizar el token para consultas posteriores.
+
+===========================================================================
+
+APIs A UTILIZAR
+
+===========================================================================
+
+1. API Transporte GCBA - Recurso “Flujo Vehicular / Transito”
+
+La API devuelve datos relacionados con:
+
+* conteo vehicular,
+* flujo de tránsito,
+* sensores de circulación,
+* velocidad promedio,
+* cantidad de vehículos,
+* sentidos de circulación,
+* análisis horario.
+
+Estos datos serán utilizados para:
+
+* KPIs,
+* métricas urbanas,
+* detección de congestión,
+* análisis vehicular.
+
+2. API Transporte GCBA - Recurso “Incidentes / Eventos”
+
+La API será utilizada para obtener:
+
+* accidentes,
+* siniestros viales,
+* cortes de calle,
+* obras,
+* manifestaciones,
+* eventos urbanos.
+
+Estos datos se visualizarán en:
+
+* mapas interactivos,
+* alertas urbanas,
+* capas geográficas.
+
+3. Streamlit-Folium / Leaflet
+
+Se utilizará para:
+
+* renderización de mapas,
+* visualización geográfica,
+* marcadores interactivos,
+* visualización espacial de incidentes.
+
+===========================================================================
+
+FUNCIONALIDADES PRINCIPALES
+
+===========================================================================
+
+1. Visualización de Incidentes en Tiempo Real
+
+Implementar un mapa interactivo centrado en CABA utilizando Folium.
+
+El mapa debe:
+
+* mostrar incidentes urbanos,
+* representar eventos mediante marcadores,
+* utilizar diferentes colores según el tipo de incidente.
+
+Ejemplo:
+
+* Rojo → Siniestros viales
+* Amarillo → Obras
+* Azul → Eventos programados
+
+Cada marcador debe mostrar:
+
+* tipo de incidente,
+* descripción,
+* ubicación,
+* nivel de congestión asociado.
+
+===========================================================================
+
+2. Panel de KPIs (Indicadores)
+
+Mostrar indicadores superiores utilizando st.columns().
+
+KPIs requeridos:
+
+* Total de incidentes activos
+* Velocidad promedio en autopistas
+* Nivel de congestión actual
+* Cantidad de zonas críticas
+* Flujo vehicular total
+
+===========================================================================
+
+3. Análisis de Flujo Vehicular
+
+Implementar gráficos dinámicos utilizando pandas o plotly.
+
+Visualizaciones requeridas:
+
+* Flujo vehicular por hora
+* Tránsito por sentido de circulación
+* Zonas con mayor congestión
+* Evolución temporal del tráfico
+* Comparación entre flujo actual e histórico
+
+===========================================================================
+
+4. Sidebar y Filtros Dinámicos
+
+Implementar filtros interactivos en el sidebar:
+
+* Filtro por tipo de incidente
+* Filtro por zonas geográficas
+* Filtro por rango horario
+* Slider de volumen vehicular
+* Selector de nivel de congestión
+
+Los filtros deben actualizar:
+
+* KPIs,
+* gráficos,
+* mapa,
+* tablas.
+
+===========================================================================
+
+5. Alertas de Congestión
+
+Implementar lógica para detectar automáticamente:
+
+* puntos calientes,
+* zonas saturadas,
+* congestión crítica.
+
+Cuando el flujo vehicular supere determinados umbrales:
+
+* mostrar alertas visuales,
+* destacar zonas críticas,
+* actualizar indicadores de riesgo.
+
+===========================================================================
+
+6. Optimización y Buenas Prácticas
+
+* Utilizar @st.cache_data para evitar consultas repetidas a las APIs.
+* Manejar errores de conexión con APIs.
+* Mantener código modular y reutilizable.
+* Utilizar DataFrames de pandas para procesamiento de datos.
+* Mantener una interfaz clara y responsive.
+* Implementar manejo de expiración de tokens.
+* Separar lógica de autenticación de la lógica de datos.
+
+===========================================================================
+
+OBJETIVO FINAL DEL SISTEMA
+
+===========================================================================
+
+La aplicación debe transformar datos abiertos complejos del GCBA en información visual, clara y accionable, permitiendo analizar el estado del tránsito de la Ciudad de Buenos Aires y facilitando la interpretación de incidentes y congestión vehicular en tiempo real.
+
+El dashboard debe funcionar como una plataforma analítica urbana moderna, integrando múltiples fuentes de datos oficiales para mejorar la comprensión de la movilidad urbana y la toma de decisiones basada en datos.
