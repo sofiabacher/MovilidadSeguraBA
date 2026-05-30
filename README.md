@@ -3,7 +3,6 @@
 ## Dashboard Inteligente de Movilidad Urbana para la Ciudad de Buenos Aires
 
 MovilidadSeguraBA es una aplicación web interactiva desarrollada en Python y Streamlit que permite visualizar y analizar información de movilidad urbana en la Ciudad de Buenos Aires.
-
 El objetivo del proyecto es transformar datos de tránsito e incidentes urbanos en información visual, clara y accionable mediante mapas interactivos, indicadores clave y análisis de datos.
 
 ---
